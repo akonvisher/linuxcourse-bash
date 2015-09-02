@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-terminal.desktop" open-window-count="1" score="460" last-seen="1441207526"/>
+    <application id="gedit.desktop" open-window-count="0" score="1" last-seen="1440603779"/>
+    <application id="gpk-dbus-service.desktop" open-window-count="0" score="0" last-seen="1441207521"/>
+  </context>
+</application-state>

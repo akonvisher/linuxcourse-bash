@@ -1,0 +1,44 @@
+[ 1441207028.460313]: IMSettings-Daemon[2688]: INFO: Starting imsettings-daemon...
+[ 1441207028.460408]: IMSettings-Daemon[2688]: INFO:   [HOME=/home/alexey/.config/imsettings]
+[ 1441207028.460431]: IMSettings-Daemon[2688]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1441207028.460449]: IMSettings-Daemon[2688]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1441207028.460467]: IMSettings-Daemon[2688]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1441207028.460485]: IMSettings-Daemon[2688]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//none.conf
+	  File: ‘/etc/X11/xinit/xinput.d//none.conf’
+	  Size: 110       	Blocks: 8          IO Block: 4096   regular file
+	Device: fd00h/64768d	Inode: 1162207     Links: 1
+	Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Context: system_u:object_r:bin_t:s0
+	Access: 2015-09-02 11:17:08.372799964 -0400
+	Modify: 2014-06-10 03:52:06.000000000 -0400
+	Change: 2015-08-19 12:07:39.138993826 -0400
+	 Birth: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: gnome-classic
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-6dsMCw0AL1,guid=182554daaa9e908f4514465355e712f4
+GTK_IM_MODULE: 
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1441207034.830647]: IMSettings-Daemon[2688]: INFO: Attempting to switch IM to none [lang=en_US.utf8, update=false]
+org.gnome.settings-daemon.plugins.keyboard.active is true. imsettings is going to be disabled.
+
+[ 1441207035.373485]: IMSettings-Daemon[2688]: WARNING **: Current desktop isn't targeted by IMSettings.
+
+[ 1441207035.375364]: GLib-GIO[2688]: CRITICAL **: g_dbus_method_invocation_return_value_internal: assertion '(parameters == NULL) || g_variant_is_of_type (parameters, G_VARIANT_TYPE_TUPLE)' failed
+[ 1441207035.441223]: IMSettings-Daemon[2688]: INFO: Unloading imesttings module: gsettings
+[ 1441207035.441336]: IMSettings-Daemon[2688]: INFO: imsettings-daemon is shut down.
