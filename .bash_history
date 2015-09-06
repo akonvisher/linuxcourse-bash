@@ -116,3 +116,31 @@ vi random_guess.sh
 ./random_guess.sh 
 vi random_guess.sh
 ./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+./random_guess.sh 
+vi random_guess.sh
+sudo yum -y git
+sudo su
+su

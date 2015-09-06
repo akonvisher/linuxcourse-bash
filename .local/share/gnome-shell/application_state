@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-terminal.desktop" open-window-count="1" score="460" last-seen="1441207526"/>
-    <application id="gedit.desktop" open-window-count="0" score="1" last-seen="1440603779"/>
+    <application id="nautilus.desktop" open-window-count="1" score="2" last-seen="1441551730"/>
+    <application id="gnome-terminal.desktop" open-window-count="2" score="703" last-seen="1441553389"/>
     <application id="gpk-dbus-service.desktop" open-window-count="0" score="0" last-seen="1441207521"/>
+    <application id="firefox.desktop" open-window-count="2" score="115" last-seen="1441552532"/>
   </context>
 </application-state>

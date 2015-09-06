@@ -1,0 +1,319 @@
+<div class="content parsys"> 
+ <div class="row-builder section"> 
+  <div style="background-color: #ffffff; padding-top: 10px;" class="topLeft Normal spacing "> 
+   <div class="row wrapper"> 
+    <div class="twelve columns"> 
+     <div class="parsys col1"> 
+      <div class="title-wrapper section"> 
+       <div class="row title "> 
+        <div class="twelve columns"> 
+         <h2 class="center" id="Recommended_for_You"> <a name="Recommended_for_You"> Recommended for You </a> </h2> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="columnbuilder parbase section"> 
+       <div class="row column-builder js-equal-column-height offset-large"> 
+        <div class="three columns "> 
+         <div class="parsys col1"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1486" data-da-language="en" data-da-campaign="event_reinvent_2015_sponsorship" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="http://reinvent.awsevents.com/sponsors.html?trk=ha_event_reinvent_2015_sponsorship_1486"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_reinvent-2015_reg" alt="ha_ed_reinvent-2015_reg" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/events/reinvent2015/ha_ed_reinvent-2015_reg.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="BECOME_A_SPONSOR"> <a href="http://reinvent.awsevents.com/sponsors.html?trk=ha_event_reinvent_2015_sponsorship_1486" name="BECOME_A_SPONSOR"> BECOME A SPONSOR </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Last_chance_to_sponsor_AWS_re:Invent._Learn_more_and_reserve_your_space_today"> <a href="http://reinvent.awsevents.com/sponsors.html?trk=ha_event_reinvent_2015_sponsorship_1486" name="Last_chance_to_sponsor_AWS_re:Invent._Learn_more_and_reserve_your_space_today"> Last chance to sponsor AWS re:Invent. Learn more and reserve your space today </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="parsys col2"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="858" data-da-language="en" data-da-campaign="pricing" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/pricing/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_pricing_green" alt="ha_ed_pricing_green" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/c/low-cost/ha_ed_pricing_green.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AWS_PRICING"> <a href="https://aws.amazon.com/pricing/" name="AWS_PRICING"> AWS PRICING </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Optimize_your_spend_for_both_variable_or_stable_workloads"> <a href="https://aws.amazon.com/pricing/" name="Optimize_your_spend_for_both_variable_or_stable_workloads"> Optimize your spend for both variable or stable workloads </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="parsys col3"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1422" data-da-language="en" data-da-campaign="training_introduction" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/training/intro_series/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_videotraining_blue" alt="ha_ed_videotraining_blue" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/awstraining/training/ha_ed_videotraining_blue.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AWS_TRAINING_|_INTRODUCTION_TO_AWS"> <a href="https://aws.amazon.com/training/intro_series/" name="AWS_TRAINING_|_INTRODUCTION_TO_AWS"> AWS TRAINING | INTRODUCTION TO AWS </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Learn_to_work_with_AWS_services_in_minutes_with_free_videos_and_self-paced_labs"> <a href="https://aws.amazon.com/training/intro_series/" name="Learn_to_work_with_AWS_services_in_minutes_with_free_videos_and_self-paced_labs"> Learn to work with AWS services in minutes with free videos and self-paced labs </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="col4 parsys"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="323" data-da-language="en" data-da-campaign="marketplace_freetrial" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/marketplace/cp/freetrial/ref=mkt_ste_hp_car_free_trial?sc_ichannel=ha&amp;sc_icountry=en&amp;sc_icampaign=ha_en_Marketplace_FreeTrials&amp;sc_icontent=ha_323&amp;sc_idetail=ha_en_323_1&amp;sc_iplace=ha_en_ed&amp;sc_isegment=2&amp;"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_marketplace" alt="ha_ed_marketplace" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/marketplace/ha_ed_marketplace.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="SOFTWARE_FREE_TRIALS"> <a href="https://aws.amazon.com/marketplace/cp/freetrial/ref=mkt_ste_hp_car_free_trial" name="SOFTWARE_FREE_TRIALS"> SOFTWARE FREE TRIALS </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Try_top_software_products_from_AWS_Marketplace_for_free"> <a href="https://aws.amazon.com/marketplace/cp/freetrial/ref=mkt_ste_hp_car_free_trial" name="Try_top_software_products_from_AWS_Marketplace_for_free"> Try top software products from AWS Marketplace for free </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <script>
+    require(["scripts"], function() {
+      $.awsComponent.columnBuilder();
+    });
+  </script> 
+      </div> 
+      <div class="divider section"> 
+       <hr /> 
+      </div> 
+      <div class="title-wrapper section"> 
+       <div class="row title "> 
+        <div class="twelve columns"> 
+         <h2 class="center" id="What's_New_from_Amazon_Web_Services_"> <a name="What's_New_from_Amazon_Web_Services_"> What's New from Amazon Web Services </a> </h2> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="columnbuilder parbase section"> 
+       <div class="row column-builder js-equal-column-height"> 
+        <div class="three columns "> 
+         <div class="parsys col1"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1472" data-da-language="en" data-da-campaign="launch_ml_cost-prediction" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/machine-learning/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_machine_learning" alt="ha_ed_machine_learning" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/products/machinelearning/ha_ed_machine_learning.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AUGUST_27_|_AMAZON_MACHINE_LEARNING"> <a href="https://aws.amazon.com/machine-learning/" name="AUGUST_27_|_AMAZON_MACHINE_LEARNING"> AUGUST 27 | AMAZON MACHINE LEARNING </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Amazon_Machine_Learning_now_estimates_the_cost_of_your_predictions"> <a href="https://aws.amazon.com/machine-learning/" name="Amazon_Machine_Learning_now_estimates_the_cost_of_your_predictions"> Amazon Machine Learning now estimates the cost of your predictions </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="parsys col2"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1376" data-da-language="en" data-da-campaign="launch_mobile_app_1.13" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/console/mobile/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="editorial_console-mobile-app" alt="editorial_console-mobile-app" src="//d1.awsstatic.com/Digital%20Marketing/House/temp-complete/editorial_console-mobile-app.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AUGUST_25_|_AWS_CONSOLE_MOBILE_APP"> <a href="https://aws.amazon.com/console/mobile/" name="AUGUST_25_|_AWS_CONSOLE_MOBILE_APP"> AUGUST 25 | AWS CONSOLE MOBILE APP </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Now_use_AWS_Console_mobile_app_to_add_or_remove_instances_from_a_load_balancer"> <a href="https://aws.amazon.com/console/mobile/" name="Now_use_AWS_Console_mobile_app_to_add_or_remove_instances_from_a_load_balancer"> Now use AWS Console mobile app to add or remove instances from a load balancer </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="parsys col3"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1459" data-da-language="en" data-da-campaign="launch_dynamodb_titan-graph" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/blogs/aws/new-store-and-process-graph-data-using-the-dynamodb-storage-backend-for-titan/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_dynamodb_titan" alt="ha_ed_dynamodb_titan" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/products/dynamodb/ha_ed_dynamodb_titan.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AUGUST_20_|_AMAZON_DYNAMODB"> <a href="https://aws.amazon.com/blogs/aws/new-store-and-process-graph-data-using-the-dynamodb-storage-backend-for-titan/" name="AUGUST_20_|_AMAZON_DYNAMODB"> AUGUST 20 | AMAZON DYNAMODB </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Amazon_DynamoDB_provides_a_fully-managed_storage_backend_for_Titan_graphs"> <a href="https://aws.amazon.com/blogs/aws/new-store-and-process-graph-data-using-the-dynamodb-storage-backend-for-titan/" name="Amazon_DynamoDB_provides_a_fully-managed_storage_backend_for_Titan_graphs"> Amazon DynamoDB provides a fully-managed storage backend for Titan graphs </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="three columns "> 
+         <div class="col4 parsys"> 
+          <div class="data-attr-wrapper parbase section"> 
+           <div class="data-attr-wrapper" data-da-placement="ed" data-da-content="1375" data-da-language="en" data-da-campaign="launch_dynamodb_logstash_plugin" data-da-type="ha" data-da-channel="ha"> 
+            <div class="parsys data-attr-wrapper"> 
+             <div class="aws-comp section"> 
+              <figure class="image-box "> 
+               <a href="https://aws.amazon.com/blogs/aws/new-logstash-plugin-search-dynamodb-content-using-elasticsearch/"> 
+                <div class="image-border image-shadow "> 
+                 <div class="parbase image"> 
+                  <img title="ha_ed_dynamodb-elasticsearch" alt="ha_ed_dynamodb-elasticsearch" src="//d1.awsstatic.com/Digital%20Marketing/House/Editorial/products/dynamodb/ha_ed_dynamodb-elasticsearch.png" /> 
+                 </div> 
+                </div> </a> 
+              </figure> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h5 class="" id="AUGUST_17_|_AMAZON_DYNAMODB"> <a href="https://aws.amazon.com/blogs/aws/new-logstash-plugin-search-dynamodb-content-using-elasticsearch/" name="AUGUST_17_|_AMAZON_DYNAMODB"> AUGUST 17 | AMAZON DYNAMODB </a> </h5> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="title-wrapper section"> 
+              <div class="row title "> 
+               <div class="twelve columns"> 
+                <h3 class="" id="Amazon_DynamoDB_Logstash_Plugin_now_enables_full-text_search_with_Elasticsearch"> <a href="https://aws.amazon.com/blogs/aws/new-logstash-plugin-search-dynamodb-content-using-elasticsearch/" name="Amazon_DynamoDB_Logstash_Plugin_now_enables_full-text_search_with_Elasticsearch"> Amazon DynamoDB Logstash Plugin now enables full-text search with Elasticsearch </a> </h3> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <script>
+    require(["scripts"], function() {
+      $.awsComponent.columnBuilder();
+    });
+  </script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div>
