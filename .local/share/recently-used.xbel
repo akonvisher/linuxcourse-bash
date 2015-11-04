@@ -17,12 +17,23 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alexey/Downloads/firstkeypair.pem" added="2015-09-06T14:50:27Z" modified="2015-09-06T14:50:27Z" visited="2015-09-06T14:50:28.189969Z">
+  <bookmark href="file:///home/alexey/Downloads/firstkeypair.pem" added="2015-09-06T14:50:27Z" modified="2015-09-06T14:50:27Z" visited="2015-09-06T14:50:28Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-x509-ca-cert"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-09-06T14:50:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/programma-paskal-metod-polovinnogo-deleniya.doc" added="2015-09-06T18:29:26Z" modified="2015-09-06T18:29:47Z" visited="2015-09-06T18:29:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2015-09-06T18:29:26Z" count="1"/>
+          <bookmark:application name="LibreOffice 4.2" exec="&apos;soffice %u&apos;" modified="2015-09-06T18:29:47Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

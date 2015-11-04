@@ -6,8 +6,8 @@
   <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentVisitCount"
                    ordinal="9" />
   <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
-                   screenX="560"
-                   screenY="187" />
+                   screenX="710"
+                   screenY="216" />
   <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentTags"
                    ordinal="3" />
   <RDF:Description RDF:about="chrome://browser/content/places/places.xul#places"
@@ -34,11 +34,11 @@
   <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDescription"
                    ordinal="13" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
-                   sizemode="normal"
                    screenX="237"
                    screenY="116"
                    width="1618"
-                   height="793" />
+                   height="793"
+                   sizemode="maximized" />
   <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDate"
                    ordinal="7" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#navigator-toolbox"

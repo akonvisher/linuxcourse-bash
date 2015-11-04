@@ -144,3 +144,110 @@ vi random_guess.sh
 sudo yum -y git
 sudo su
 su
+ls
+touch file1.txt file2.txt textfile.old
+ls
+vi testfiles.sh
+chmod 755 testfiles.sh 
+testfiles.sh 
+./testfiles.sh 
+ls -la 
+ls f*
+./testfiles.sh file1.txt
+ls -la f*
+chmod 755 file1.txt
+ls -la f*
+./testfiles.sh file1.txt
+chmod 722 file1.txt
+ls -la f*
+./testfiles.sh file1.txt
+chmod 227 file1.txt
+./testfiles.sh file1.txt
+chmod 727 file1.txt
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfile.sh file1.txt
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+chmod 444 file1.txt
+./testfiles.sh file1.txt
+chmod 744 file1.txt
+vi testfiles.sh
+chmod 744 file1.txt
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+./testfiles.sh file1.txt
+vi testfiles.sh
+history|grep git
+sudo su
+su
+man test
+test -x file1.txt
+test -x file1.tx
+echo "test -x ggg"
+echo [test -x ggg]
+echo {test -x ggg}
+echo $(test -x ggg)
+echo [test -x ggg]
+ls -la "file1.txt"
+ls -la "file1.txt"|cat c3
+ls -la "file1.txt"|cut -c3
+ls -la "file1.txt"|cut -c4
+ls -l "file1.txt"|cut -c4
+ls -l "file1.txt"|cut :d"1" -f1
+ls -l "file1.txt"|cut -d"1" -f1
+ls -l "file1.txt"|cut -d"1" -f2
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f1
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f2
+adduser
+sudo adduser
+su
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f2
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f1
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f-1
+ls -l "file1.txt
+ls -l "file1.txt"
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f2
+su
+ls -l "file1.txt"|cut -d"1" -f2|cut -d" " -f2
+ls -l
+history|grep git
+whoami
+guess=6/2
+echo $guess
+guess=$(6/2)
+echo $guess
+guess=$((6/2))
+echo $guess
+history|grep ssh
+ls
+cd amazon
+ls
+ssh -i ubuntu@54.186.179.245
+ls
+ssh -i firstkeypair.pem ubuntu@54.186.179.245
+echo "ssh -i firstkeypair.pem ubuntu@54.186.179.245">ssh.sh
+ls -l
+chmod 766 ssh.sh 
+ls -l
+./ssh.sh 
+ssh -i firstkeypair.pem -x ubuntu@54.186.179.245
+updatedb
+sudo updatedb
+su
+ls
+cd amazon/
+ls
+./ssh.sh 
+./ssh.sh
